@@ -1,7 +1,7 @@
 
 javascript/*
-node_modules/**
-__pycache__/**
+node_modules/*
+__pycache__/*
 twitter_env/*
 github-cred.txt
 pseudo_ele_cls.html
